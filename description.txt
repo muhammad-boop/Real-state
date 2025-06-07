@@ -1,0 +1,19 @@
+?? Just dropped my latest project — PRIVATE PROPERTY RENTAL — a full-featured Airbnb clone!
+
+??  Built with ReactJS — fully responsive, clean UI, smooth navigation and modern light theme.
+
+?? Key Features:
+
+Dynamic Property Listings ??
+
+Login / Signup Authentication ??
+
+Custom Navbar with Routing ??
+
+Stylish Help Center & Footer ???
+
+Mobile-Friendly & Fast ?
+
+?? This is just the beginning — bigger features coming soon!
+
+?? Check out the video and let me know what you think! Your feedback = fuel ??

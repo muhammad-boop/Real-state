@@ -1,0 +1,75 @@
+#signIn {
+  width: 100%;
+  margin-top: 220px;
+  height: 100vh;
+  background: linear-gradient(to right, #f8f9fa, #e0e0e0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#signIn form {
+  width: 90%;
+  max-width: 450px;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#signTitle {
+  font-size: 30px;
+  font-weight: 600;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#signIn .list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+#signIn .list label {
+  font-size: 15px;
+  font-weight: 500;
+  color: #444;
+}
+
+#signIn .list input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  outline: none;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+#signIn .list input:focus {
+  border-color: #ff4747;
+  box-shadow: 0 0 5px rgba(255, 71, 71, 0.3);
+}
+
+#signBtn {
+  padding: 12px;
+  background-color: #ff4747;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  margin-top: 10px;
+}
+
+#signBtn:hover {
+  background-color: #e63946;
+  transform: translateY(-2px);
+}
